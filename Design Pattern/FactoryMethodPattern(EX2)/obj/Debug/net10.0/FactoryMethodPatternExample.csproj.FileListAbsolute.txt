@@ -1,0 +1,14 @@
+D:\DN 5.0\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.exe
+D:\DN 5.0\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.deps.json
+D:\DN 5.0\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.runtimeconfig.json
+D:\DN 5.0\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.dll
+D:\DN 5.0\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.pdb
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.AssemblyInfo.cs
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.dll
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\refint\FactoryMethodPatternExample.dll
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.pdb
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.genruntimeconfig.cache
+D:\DN 5.0\FactoryMethodPatternExample\obj\Debug\net10.0\ref\FactoryMethodPatternExample.dll

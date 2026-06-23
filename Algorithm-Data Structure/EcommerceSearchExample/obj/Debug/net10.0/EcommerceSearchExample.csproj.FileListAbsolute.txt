@@ -1,0 +1,14 @@
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\bin\Debug\net10.0\EcommerceSearchExample.exe
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\bin\Debug\net10.0\EcommerceSearchExample.deps.json
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\bin\Debug\net10.0\EcommerceSearchExample.runtimeconfig.json
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\bin\Debug\net10.0\EcommerceSearchExample.dll
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\bin\Debug\net10.0\EcommerceSearchExample.pdb
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.AssemblyInfoInputs.cache
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.AssemblyInfo.cs
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.csproj.CoreCompileInputs.cache
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.dll
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\refint\EcommerceSearchExample.dll
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.pdb
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\EcommerceSearchExample.genruntimeconfig.cache
+D:\DN 5.0\Algorithm-Data Structure\EcommerceSearchExample\obj\Debug\net10.0\ref\EcommerceSearchExample.dll

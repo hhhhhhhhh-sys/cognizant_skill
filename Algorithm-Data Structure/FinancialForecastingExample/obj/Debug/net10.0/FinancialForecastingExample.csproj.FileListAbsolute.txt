@@ -1,0 +1,14 @@
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.exe
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.deps.json
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.runtimeconfig.json
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.dll
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.pdb
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.AssemblyInfoInputs.cache
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.AssemblyInfo.cs
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.csproj.CoreCompileInputs.cache
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.dll
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\refint\FinancialForecastingExample.dll
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.pdb
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.genruntimeconfig.cache
+D:\DN 5.0\Algorithm-Data Structure\FinancialForecastingExample\obj\Debug\net10.0\ref\FinancialForecastingExample.dll
